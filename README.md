@@ -1,3 +1,4 @@
-# Upload CSV file to SQL (phpmyadmin)
+# Upload CSV file to SQL (phpMyAdmin)
 ### https://josepauluk.com
-### htps://linkedin/in/josepauluk
+
+### https://linkedin/in/josepauluk
